@@ -1,2 +1,2 @@
-# qualitiste
+# Préambule
 Démocratie Qualitiste
